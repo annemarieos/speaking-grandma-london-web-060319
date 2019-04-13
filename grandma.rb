@@ -4,7 +4,7 @@ def speak_to_grandma
     puts "I LOVE YOU TOO PUMPKIN!"
   elsif "".capitalise
     puts "NO, NOT SINCE 1989!"
-  else 
+  else
     puts "HUH?! SPEAK UP SUNNY!"
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
